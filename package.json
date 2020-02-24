@@ -1,5 +1,7 @@
 {
   "name": "hawkathon_backend_postgres",
   "private": true,
-  "dependencies": {}
+  "dependencies": {
+    "winston": "^3.2.1"
+  }
 }
